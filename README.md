@@ -1,2 +1,2 @@
-# ml-zoomcamp_2023
-ML-Zoomcamp_Week_1_Homework
+# ml-zoomcamp-2023
+Repository for completed homework at ML Zoomcamp
